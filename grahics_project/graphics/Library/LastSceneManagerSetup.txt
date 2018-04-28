@@ -1,4 +1,0 @@
-sceneSetups:
-- path: D:/graphics project/graphics_project/grahics_project/Assets/seen.unity
-  isLoaded: 1
-  isActive: 1

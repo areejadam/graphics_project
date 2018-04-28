@@ -1,5 +1,0 @@
-sceneSetups:
-- path: D:/graphics project/graphics_project/grahics_project/Assets/Decrepit Dungeon
-    LITE/EXAMPLE/Demo_Scene.unity
-  isLoaded: 1
-  isActive: 1

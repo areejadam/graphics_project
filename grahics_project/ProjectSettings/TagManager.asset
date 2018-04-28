@@ -13,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - floor
-  - 
-  - 
-  - 
+  - Floor
+  - Shootable
+  - LightMask
+  - Invisible
   - 
   - 
   - 

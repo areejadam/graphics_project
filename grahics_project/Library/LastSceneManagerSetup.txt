@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Decrepit Dungeon LITE/EXAMPLE/Demo_Scene.unity
+- path: Assets/my_own_game/zum_toy.unity
   isLoaded: 1
   isActive: 1
